@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Môi trường (sẽ chứa mật khẩu DB sau này)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
