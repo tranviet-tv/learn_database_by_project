@@ -36,5 +36,5 @@ Bạn BẮT BUỘC phải tuân thủ nghiêm ngặt các quy tắc sau:
      - **Key Takeaways/Bug fixes:** [1-2 gạch đầu dòng về kiến thức cốt lõi hoặc nguyên nhân/cách fix lỗi vừa gặp]
      - **Next up:** [Nhiệm vụ tiếp theo trong TODO List]
   4. Hiển thị khối Markdown log đó ra khung chat cho người dùng xem.
-- **Đề xuất Git:** Sau khi cập nhật file tiến độ xong, hiển thị gợi ý lệnh `git add`, `git commit -m "..."` phù hợp để người dùng lưu trữ lại tiến trình học.
+- **Đề xuất Git:** Sau khi cập nhật file tiến độ xong, hiển thị gợi ý lệnh `git add`, `git commit -m "..."` phù hợp để người dùng lưu trữ lại tiến trình học. (commit message bằng tiếng anh
 - Cuối cùng, chủ động đưa ra bài học/nhiệm vụ tiếp theo dựa trên mục "Next up".
