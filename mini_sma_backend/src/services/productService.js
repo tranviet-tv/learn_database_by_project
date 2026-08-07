@@ -8,4 +8,13 @@ async function getAllProducts() {
         throw error;
     }
 }
-module.exports = { getAllProducts };
+
+async function createProduct(productData) {
+    try {
+        const product = await prisma.products.create({ data: productData });
+        return product;
+    } catch (error) {
+        throw error;
+    }
+}
+module.exports = { getAllProducts, createProduct };
